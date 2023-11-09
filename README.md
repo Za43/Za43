@@ -1,6 +1,11 @@
 ### Hi there, I'm Zaid 👋 ###
-- 🌱 I’m currently a junior at Duke University studying Computer Science and Statistics.
-- 📌 Check out my hackathon, research, and coursework projects below
+  🎓 Studying Computer Science and Statistics at Duke University, graduating in 2025.
+  🖥 Interested in Cross-Disciplinary Applications of CS, specifically using AI/ML
+  📌 Check out my hackathon, research, and coursework projects below!
+  📫 Feel free to contact me!
+  <a href="https://www.linkedin.com/in/zaid-muqsit-32b196213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Zaid_Muqsit-blue"></a>
+
+  
 
 <!--
 **Za43/Za43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
