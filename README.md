@@ -3,6 +3,8 @@
   🖥 Interested in Cross-Disciplinary Applications of CS, specifically using AI/ML
   📌 Check out my hackathon, research, and coursework projects below!
   📫 Feel free to contact me!
+  
+  <br><br>
   <a href="https://www.linkedin.com/in/zaid-muqsit-32b196213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Zaid_Muqsit-blue"></a>
 
   
