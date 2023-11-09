@@ -1,11 +1,12 @@
 ### Hi there, I'm Zaid 👋 ###
-  🎓 Studying Computer Science and Statistics at Duke University, graduating in 2025.
-  🖥 Interested in Cross-Disciplinary Applications of CS, specifically using AI/ML
-  📌 Check out my hackathon, research, and coursework projects below!
-  📫 Feel free to contact me!
-  
+   🎓 Studying Computer Science and Statistics at Duke University, graduating in 2025. <br>
+   🖥 Interested in Cross-Disciplinary Applications of CS, specifically using AI/ML. <br>
+   📌 Check out my hackathon, research, and coursework projects below! <br>
+   📫 Feel free to contact me!
   <br><br>
   <a href="https://www.linkedin.com/in/zaid-muqsit-32b196213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Zaid_Muqsit-blue"></a>
+  <a href="mailto:zm73@duke.edu"><img src="https://img.shields.io/badge/Email-zm73%40duke.edu-orange"></a>
+
 
   
 
