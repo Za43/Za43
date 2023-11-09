@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Zaid 👋 ###
+🌱 I’m currently a junior at Duke University studying Computer Science and Statistics.
+📌 Check out my hackathon, research, and coursework projects below
 
 <!--
 **Za43/Za43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
